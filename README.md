@@ -44,7 +44,7 @@ playwright install
 
 test_saucedemo.py
 
-##Features
+#Features
 Cross-browser Testing
 Page Object Models
 HTML Reporting
