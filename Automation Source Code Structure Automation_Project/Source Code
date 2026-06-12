@@ -1,0 +1,17 @@
+Automation_Project/
+│
+├── tests/
+│   └── test_shopify_checkout.py
+│
+├── pages/
+│   ├── login_page.py
+│   ├── home_page.py
+│   ├── product_page.py
+│   └── checkout_page.py
+│
+├── utils/
+│   └── test_data.py
+│
+├── requirements.txt
+├── pytest.ini
+└── README.md
